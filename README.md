@@ -27,37 +27,24 @@ An interactive Power BI dashboard built to analyze healthcare provider performan
 - Room Charges
 - Out-of-Pocket Expenses
 - Average Cost per Visit
-
 ---
 
-## Tools & Technologies
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Interactive Visualizations
+## Insights & Recommendations
 
----
+### 🫀 Cardiology generated the highest billing.
+**Why?** High-cost procedures and specialized treatments contribute to higher revenue.  
+**Recommendation:** Optimize resource allocation and monitor operational efficiency.
 
-## Insights
-- Cardiology generated the highest billing among all departments.
-- X-Ray procedures accounted for the largest share of procedure revenue.
-- Outpatient services represented the highest percentage across most diagnoses.
-- Billing trends can be monitored geographically to identify regional demand.
+### 🩻 X-Ray accounted for the highest procedure revenue.
+**Why?** High patient volume and frequent diagnostic usage.  
+**Recommendation:** Ensure equipment availability and reduce patient wait times.
 
----
+### 🏥 Outpatient services dominated across most diagnoses.
+**Why?** Many conditions can be effectively treated without hospital admission.  
+**Recommendation:** Expand outpatient services to improve patient throughput and reduce costs.
 
-## Project Skills
-- Dashboard Development
-- Data Visualization
-- Business Intelligence
-- Healthcare Analytics
-- KPI Reporting
-- DAX Measures
-- Data Modeling
+### 🌍 Billing varied across cities.
+**Why?** Differences in patient demand and healthcare utilization.  
+**Recommendation:** Use regional trends to support staffing and resource planning.
 
----
 
-## Dashboard Preview
-
-<img src="images/healthcare-dashboard.png" width="1000">
